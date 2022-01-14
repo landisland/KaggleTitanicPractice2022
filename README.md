@@ -2,4 +2,4 @@ This repo is a practice of [Titanic - Machine Learning from Disaster](https://ww
 
 The Juypter Notebook is based on [agconti's github repo](https://github.com/agconti/kaggle-titanic)
 
-You can read the Juypter Notebook [here]()
+You can read the Juypter Notebook [here](https://github.com/landisland/KaggleTitanicPractice2022/blob/main/KaggleTitanicAnalysis.ipynb)
